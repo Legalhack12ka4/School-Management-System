@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31613.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolMgSystem", "SchoolMgSystem\SchoolMgSystem.csproj", "{833D6CF1-4BB3-43EC-BF37-598D005D1AAA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DatabaseAccess", "..\DatabaseAccess\DatabaseAccess.csproj", "{9E5D63E1-36EA-4B18-BD13-B058D01E63D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{833D6CF1-4BB3-43EC-BF37-598D005D1AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{833D6CF1-4BB3-43EC-BF37-598D005D1AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{833D6CF1-4BB3-43EC-BF37-598D005D1AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{833D6CF1-4BB3-43EC-BF37-598D005D1AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E5D63E1-36EA-4B18-BD13-B058D01E63D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5D63E1-36EA-4B18-BD13-B058D01E63D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5D63E1-36EA-4B18-BD13-B058D01E63D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5D63E1-36EA-4B18-BD13-B058D01E63D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A90F29A1-E1E9-45A2-ACE5-E3E23A7BF952}
+	EndGlobalSection
+EndGlobal
